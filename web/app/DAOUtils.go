@@ -5,10 +5,10 @@ import (
 
 	"github.com/quintans/goSQL/db"
 	"github.com/quintans/goSQL/dbx"
-	tk "github.com/quintans/toolkit"
-	coll "github.com/quintans/toolkit/collections"
-	. "github.com/quintans/toolkit/ext"
-	"github.com/quintans/toolkit/log"
+	tk "github.com/fademan01/toolkit"
+	coll "github.com/fademan01/toolkit/collections"
+	. "github.com/fademan01/toolkit/ext"
+	"github.com/fademan01/toolkit/log"
 
 	"strings"
 )

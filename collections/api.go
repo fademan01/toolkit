@@ -1,11 +1,11 @@
 package collections
 
 import (
-	. "github.com/quintans/toolkit"
-	"github.com/quintans/toolkit/log"
+	. "github.com/fademan01/toolkit"
+	"github.com/fademan01/toolkit/log"
 )
 
-var logger = log.LoggerFor("github.com/quintans/toolkit/collections")
+var logger = log.LoggerFor("github.com/fademan01/toolkit/collections")
 
 type Collection interface {
 	Base

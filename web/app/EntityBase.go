@@ -2,7 +2,7 @@ package app
 
 import (
 	"github.com/quintans/goSQL/db"
-	. "github.com/quintans/toolkit/ext"
+	. "github.com/fademan01/toolkit/ext"
 )
 
 type IEntity interface {

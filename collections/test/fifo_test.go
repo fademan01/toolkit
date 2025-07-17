@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	tk "github.com/quintans/toolkit"
-	"github.com/quintans/toolkit/collections"
+	tk "github.com/fademan01/toolkit"
+	"github.com/fademan01/toolkit/collections"
 )
 
 const (

@@ -1,6 +1,6 @@
 package web
 
-import "github.com/quintans/toolkit"
+import "github.com/fademan01/toolkit"
 
 type HttpFail struct {
 	*toolkit.Fail

@@ -1,8 +1,8 @@
 package web
 
 import (
-	"github.com/quintans/toolkit/cache"
-	"github.com/quintans/toolkit/log"
+	"github.com/fademan01/toolkit/cache"
+	"github.com/fademan01/toolkit/log"
 
 	"crypto/rand"
 	"encoding/base64"
@@ -10,7 +10,7 @@ import (
 	"time"
 )
 
-var logger = log.LoggerFor("github.com/quintans/toolkit/web")
+var logger = log.LoggerFor("github.com/fademan01/toolkit/web")
 
 const (
 	COOKIE_NAME = "GSESSION"

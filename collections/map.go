@@ -3,7 +3,7 @@ package collections
 import (
 	"fmt"
 
-	. "github.com/quintans/toolkit"
+	. "github.com/fademan01/toolkit"
 )
 
 type KeyValue struct {

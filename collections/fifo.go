@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"sync"
 
-	tk "github.com/quintans/toolkit"
+	tk "github.com/fademan01/toolkit"
 )
 
 const (

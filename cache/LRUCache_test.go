@@ -3,7 +3,7 @@ package cache
 import (
 	"io"
 	"os"
-	"github.com/quintans/toolkit/log"
+	"github.com/fademan01/toolkit/log"
 	"testing"
 )
 

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"sort"
 
-	. "github.com/quintans/toolkit"
+	. "github.com/fademan01/toolkit"
 )
 
 // == HashSet ==

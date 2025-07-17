@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/quintans/toolkit"
-	. "github.com/quintans/toolkit/collections"
-	. "github.com/quintans/toolkit/ext"
+	"github.com/fademan01/toolkit"
+	. "github.com/fademan01/toolkit/collections"
+	. "github.com/fademan01/toolkit/ext"
 )
 
 var unsortedHashedArray = []toolkit.Hasher{

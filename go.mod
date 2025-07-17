@@ -1,4 +1,4 @@
-module github.com/quintans/toolkit
+module github.com/fademan01/toolkit
 
 go 1.13
 

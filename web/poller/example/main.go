@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/quintans/toolkit/web/poller"
+	"github.com/fademan01/toolkit/web/poller"
 
 	"net/http"
 	"runtime"

@@ -3,9 +3,9 @@ package test
 import (
 	"testing"
 
-	. "github.com/quintans/toolkit"
-	"github.com/quintans/toolkit/collections"
-	. "github.com/quintans/toolkit/ext"
+	. "github.com/fademan01/toolkit"
+	"github.com/fademan01/toolkit/collections"
+	. "github.com/fademan01/toolkit/ext"
 )
 
 func compare(a, b []interface{}) bool {
